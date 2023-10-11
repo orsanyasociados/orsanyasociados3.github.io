@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Orsan Y Asociados - Bufete Jurídico</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Bufete jurídico especializado en asesoramiento legal integral.">
+  <meta name="keywords" content="bufete jurídico, abogados, asesoramiento legal, Orsan y Asociados">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css"> <!-- Enlazar tu archivo CSS si lo tienes -->
+</head>
+<body>
+  <header>
+    <img src="logo_orsan.png" alt="Logo Orsan Y Asociados">
+    <h1>Bienvenido a Orsan Y Asociados - Bufete Jurídico</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="equipo.html">Nuestro Equipo</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>Acerca de Nosotros</h2>
+    <p>Somos Orsan Y Asociados, un bufete comprometido con la excelencia en la defensa de tus derechos y la resolución de tus problemas legales. Nuestro equipo de abogados altamente capacitados está listo para asistirte en cada etapa de tu caso. Confía en nosotros para encontrar las soluciones legales que necesitas.</p>
+    <img src="oficina.jpg" alt="Oficina de Orsan Y Asociados" width="800" height="400">
+  </section>
+
+  <section id="services">
+    <h2>Nuestros Servicios</h2>
+    <ul>
+      <li>Asesoramiento legal en diferentes áreas</li>
+      <li>Representación legal en litigios</li>
+      <li>Contratos y negociaciones legales</li>
+      <li>Mediación y resolución de conflictos</li>
+      <li>Derecho corporativo y empresarial</li>
+    </ul>
+  </section>
+
+  <section id="team">
+    <h2>Nuestro Equipo</h2>
+    <p>Nuestro equipo está formado por abogados especializados en diversas ramas del derecho, comprometidos a brindar la mejor asesoría y representación legal para nuestros clientes.</p>
+    <ul>
+      <li>Abogado 1 - Especialista en Derecho Civil</li>
+      <li>Abogado 2 - Experto en Derecho Penal</li>
+      <li>Abogado 3 - Especialista en Derecho Laboral</li>
+      <!-- Agregar más miembros del equipo según sea necesario -->
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Orsan Y Asociados. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>

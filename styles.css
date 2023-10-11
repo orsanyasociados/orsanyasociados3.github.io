@@ -1,0 +1,164 @@
+body {
+  font-family: 'Playfair Display', serif;
+  margin: 20px;
+}
+header, footer {
+  background-color: #570505;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav {
+  background-color:rgb(233, 229, 223);
+  padding: 20px;
+  margin-bottom: 50px;
+}
+nav a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #555;
+}
+section {
+  margin-bottom: 20px;
+}
+body {
+  font-family: 'Playfair Display', serif;
+  margin: 20px;
+}
+
+h4 {
+  color: #333;
+  text-align: center;
+  font-size: 30px;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #afaeae; /* Color de fondo gris */
+  border-radius: 10px; /* Bordes redondeados */
+}
+h2 {
+text-align: center;
+font-size: 15px;
+font-weight: none;
+} 
+h3 {
+  text-align: left;
+  font-size: 25px;
+  font-weight: none;
+  } 
+  h1  {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+  }
+  h6  {
+    text-align: center;
+    font-size: 20px;
+    font-weight: none;
+  }
+  h7{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3498db; /* Azul */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  }
+  p {
+    text-align: justify;
+    } 
+  a {
+font-family: 'Playfair Display', serif;
+}
+#contacto-section {
+  padding: 10px;
+  margin: 0;
+  background: transparent;
+  box-shadow: none;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#contacto-section .content {
+  background-color: rgb(233, 229, 223);
+  width: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 20px;
+
+}
+
+
+.contacto-1 {
+  width: 300px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: right;
+
+}
+
+.contacto-0 {
+  width: 500px;
+}
+
+
+.contacto .icon {
+  width: 100%;
+  display: block;
+  float: left;
+  text-align: left;
+}
+
+.contacto .icon span, 
+.contacto .icon a {
+  background-image: url(/img/icons/geo-alt.svg);
+  background-size: 10px;
+  background-position: left;
+  background-repeat: no-repeat;
+  display: block;
+  float: left;
+  padding-left: 15px;
+  color: black;
+}
+
+
+.contacto .icon.tel a {
+  background-image: url(/img/icons/telephone.svg);
+
+}
+
+.contacto .icon.mail a {
+  background-image: url(/img/icons/envelope.svg);
+
+}
+
+.contacto .icon.instagram a {
+  background-image: url(/img/icons/instagram.svg);
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  padding-left: 0;
+
+}
+
+.contacto .icon.facebook a {
+  background-image: url(/img/icons/facebook.svg);
+      width: 20px;
+  height: 20px;
+  background-size: cover;
+  padding-left: 0;
+}
+
+.contacto-1 .icon {
+  width: 30px;
+  height: 20px;
+
+}
